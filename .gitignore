@@ -1,6 +1,6 @@
 conf.json
 client_packages/game_resources/dlcpacks/*
-WhistlersLogs/*
+WhistlerLogs/*
 server_exceptions.txt
 server_logs.txt
 client_packages/.listcache
