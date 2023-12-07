@@ -1,0 +1,1 @@
+export default [{"level":1,"exp":0},{"level":2,"exp":2000},{"level":3,"exp":6000}]

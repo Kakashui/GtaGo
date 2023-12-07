@@ -1,0 +1,9 @@
+F:\new\whistler\Server\Whistler.Domain\bin\Release\netcoreapp2.0\Whistler.Domain.deps.json
+F:\new\whistler\Server\Whistler.Domain\bin\Release\netcoreapp2.0\Whistler.Domain.dll
+F:\new\whistler\Server\Whistler.Domain\bin\Release\netcoreapp2.0\Whistler.Domain.pdb
+F:\new\whistler\Server\Whistler.Domain\obj\Release\netcoreapp2.0\Whistler.Domain.AssemblyInfoInputs.cache
+F:\new\whistler\Server\Whistler.Domain\obj\Release\netcoreapp2.0\Whistler.Domain.AssemblyInfo.cs
+F:\new\whistler\Server\Whistler.Domain\obj\Release\netcoreapp2.0\Whistler.Domain.csproj.CoreCompileInputs.cache
+F:\new\whistler\Server\Whistler.Domain\obj\Release\netcoreapp2.0\Whistler.Domain.dll
+F:\new\whistler\Server\Whistler.Domain\obj\Release\netcoreapp2.0\Whistler.Domain.pdb
+F:\new\whistler\Server\Whistler.Domain\obj\Release\netcoreapp2.0\Whistler.Domain.csprojAssemblyReference.cache

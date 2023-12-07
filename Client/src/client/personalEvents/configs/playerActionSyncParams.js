@@ -1,0 +1,1 @@
+module.exports = {"Driving":{"SyncTime":0,"SyncMaxPoint":5000}}

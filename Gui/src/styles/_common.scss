@@ -1,0 +1,49 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  -webkit-user-select: none;
+}
+body {
+  overflow: hidden;
+}
+
+.app-bg{
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100vw;
+  height: 100vh;
+  z-index: -1;
+}
+.app-binoculars{
+  background: url(/img/hud/binoculars.png) center no-repeat;
+  background-size: cover;
+  position: fixed;
+  width: 100vw;
+  height: 100vh;
+  top: 0;
+  left: 0;
+}
+
+
+button, input {
+  outline: 0;
+  border: 0;
+  font-size: 1rem;
+}
+
+#app {
+  height: 100vh;
+  width: 100vw;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.development{
+  // background-image: url('https://cdn.hipwallpaper.com/i/94/27/jCd1Zi.jpg');
+  background-position: center;
+  background-size: cover;
+}

@@ -1,0 +1,10 @@
+F:\new\whistler\Server\Whistler.Infrastructure.Common\bin\Release\netcoreapp3.1\Whistler.Infrastructure.Common.deps.json
+F:\new\whistler\Server\Whistler.Infrastructure.Common\bin\Release\netcoreapp3.1\Whistler.Infrastructure.Common.dll
+F:\new\whistler\Server\Whistler.Infrastructure.Common\bin\Release\netcoreapp3.1\Whistler.Infrastructure.Common.pdb
+F:\new\whistler\Server\Whistler.Infrastructure.Common\obj\Release\netcoreapp3.1\Whistler.Infrastructure.Common.AssemblyInfoInputs.cache
+F:\new\whistler\Server\Whistler.Infrastructure.Common\obj\Release\netcoreapp3.1\Whistler.Infrastructure.Common.AssemblyInfo.cs
+F:\new\whistler\Server\Whistler.Infrastructure.Common\obj\Release\netcoreapp3.1\Whistler.Infrastructure.Common.csproj.CoreCompileInputs.cache
+F:\new\whistler\Server\Whistler.Infrastructure.Common\obj\Release\netcoreapp3.1\Whistler.Infrastructure.Common.dll
+F:\new\whistler\Server\Whistler.Infrastructure.Common\obj\Release\netcoreapp3.1\Whistler.Infrastructure.Common.pdb
+F:\new\whistler\Server\Whistler.Infrastructure.Common\obj\Release\netcoreapp3.1\Whistler.Infrastructure.Common.csproj.AssemblyReference.cache
+F:\new\whistler\Server\Whistler.Infrastructure.Common\obj\Release\netcoreapp3.1\Whistler.Infrastructure.Common.GeneratedMSBuildEditorConfig.editorconfig

@@ -1,0 +1,10 @@
+F:\new\whistler\Server\Whistler.Domain\bin\Release\netcoreapp3.1\Whistler.Domain.deps.json
+F:\new\whistler\Server\Whistler.Domain\bin\Release\netcoreapp3.1\Whistler.Domain.dll
+F:\new\whistler\Server\Whistler.Domain\bin\Release\netcoreapp3.1\Whistler.Domain.pdb
+F:\new\whistler\Server\Whistler.Domain\obj\Release\netcoreapp3.1\Whistler.Domain.AssemblyInfoInputs.cache
+F:\new\whistler\Server\Whistler.Domain\obj\Release\netcoreapp3.1\Whistler.Domain.AssemblyInfo.cs
+F:\new\whistler\Server\Whistler.Domain\obj\Release\netcoreapp3.1\Whistler.Domain.csproj.CoreCompileInputs.cache
+F:\new\whistler\Server\Whistler.Domain\obj\Release\netcoreapp3.1\Whistler.Domain.dll
+F:\new\whistler\Server\Whistler.Domain\obj\Release\netcoreapp3.1\Whistler.Domain.pdb
+F:\new\whistler\Server\Whistler.Domain\obj\Release\netcoreapp3.1\Whistler.Domain.csproj.AssemblyReference.cache
+F:\new\whistler\Server\Whistler.Domain\obj\Release\netcoreapp3.1\Whistler.Domain.GeneratedMSBuildEditorConfig.editorconfig

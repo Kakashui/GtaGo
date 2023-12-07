@@ -1,0 +1,169 @@
+.fish-trader {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  position: relative;
+  background: linear-gradient(0deg, rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.7));
+  .fish-trader-header {
+    display: flex;
+    align-items: center;
+    padding: 1rem 2.2rem 0 2.2rem;
+    .header-title {
+      display: flex;
+      align-items: center;
+      .title-text {
+        color: #363636;
+        font-weight: bold;
+        font-size: 2rem;
+        text-transform: uppercase;
+        letter-spacing: 1.5px;
+        margin: 0 0 0 1rem;
+      }
+    }
+    .header-separator {
+      flex: 1 1 auto;
+      background-color: #222121;
+      height: 1px;
+      margin: 0 30px;
+    }
+  }
+  .fish-trader-main {
+    display: flex;
+    margin: 0 0 0 3rem;
+    .main-table {
+      display: flex;
+      flex-direction: column;
+      width: 62rem;
+      .table-header {
+        display: flex;
+        justify-content: space-between;
+        font-size: 1.3rem;
+        font-weight: bold;
+        padding: 0 .7rem;
+        .table-title {
+          color: #363636;
+          text-transform: uppercase;
+        }
+        .table-count {
+          color: #363636;
+        }
+      }
+      .table-main {
+        background: #2D2D2D;
+        border-top-left-radius: 8px;
+        border-top-right-radius: 8px;
+        height: 24rem;
+        overflow-y: auto;
+        display: flex;
+        flex-wrap: wrap;
+        align-content: flex-start;
+        padding: 0 0 0 .5rem;
+        &::-webkit-scrollbar {
+          width: 1.5rem;
+        }
+        &::-webkit-scrollbar-track {
+          box-shadow: inset 0 0 .5rem .5rem #242323;
+          border: solid .5rem transparent;
+          margin: .6rem;
+        }
+        &::-webkit-scrollbar-thumb {
+          box-shadow: inset 0 0 .5rem .5rem #FFFDFD;
+          border: solid .5rem transparent;
+        }
+        .main-card {
+          flex: 0 1 calc(33.333% - 2rem);
+          height: 5rem;
+          margin: 1rem;
+          display: flex;
+          justify-content: space-between;
+          background-color: #242323;
+          padding: .75rem;
+          border-radius: .2rem;
+          .card-img {
+            width: 46%;
+          }
+          .card-desc {
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+          }
+          &.active {
+            background: #219653;
+          }
+        }
+      }
+      .table-actions {
+        display: flex;
+        border-bottom-left-radius: 8px;
+        border-bottom-right-radius: 8px;
+        overflow: hidden;
+        .actions-btn {
+          border: 0;
+          outline: 0;
+          background-color: #171717;
+          width: 50%;
+          height: 2.2rem;
+          font-size: 1rem;
+          text-transform: uppercase;
+          font-weight: bold;
+          letter-spacing: 1px;
+          &:first-child {
+            border-right: 1px solid rgba(255, 255, 255, 0.7);
+          }
+          &:last-child {
+            border-left: 1px solid rgba(255, 255, 255, 0.7);
+          }
+        }
+      }
+    }
+    .main-info {
+      display: flex;
+      flex-direction: column;
+      padding: 1.4rem 0 0 2.2rem;
+      .info-desc {
+        color: #363636;
+        width: 50%;
+        font-size: 1.2rem;
+      }
+      .info-price {
+        display: flex;
+        flex-direction: column;
+        margin: 4rem 0 0 0;
+        &:last-child {
+          margin: 0;
+        }
+        .price-desc {
+          color: #363636;
+          font-size: 2.3rem;
+          font-weight: bold;
+        }
+        .price-cost {
+          font-size: 2.2rem;
+          color: #219653;
+          font-weight: bold;
+        }
+      }
+    }
+  }
+  .fish-trader-action {
+    margin: 0 0 3rem 3rem;
+    width: 16rem;
+    height: 3rem;
+    font-size: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 0;
+    outline: 0;
+    text-transform: uppercase;
+    background: #363636;
+  }
+  .fish-trader-character {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    width: 16rem;
+  }
+}

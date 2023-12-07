@@ -1,0 +1,233 @@
+F:\new\whistler_1_1\Server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\Whistler.UpdateR.deps.json
+F:\new\whistler_1_1\Server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\Whistler.UpdateR.dll
+F:\new\whistler_1_1\Server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\Whistler.UpdateR.pdb
+F:\new\whistler_1_1\Server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\Bootstrapper.dll
+F:\new\whistler_1_1\Server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\Colorful.Console.dll
+F:\new\whistler_1_1\Server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+F:\new\whistler_1_1\Server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+F:\new\whistler_1_1\Server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\new\whistler_1_1\Server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\NeoSmart.Hashing.dll
+F:\new\whistler_1_1\Server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\xxHash.dll
+F:\new\whistler_1_1\Server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\Ben.Demystifier.dll
+F:\new\whistler_1_1\Server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\new\whistler_1_1\Server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\Bootstrapper.xml
+F:\new\whistler_1_1\Server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+F:\new\whistler_1_1\Server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+F:\new\whistler_1_1\Server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+F:\new\whistler_1_1\Server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+F:\new\whistler_1_1\Server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+F:\new\whistler_1_1\Server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+F:\new\whistler_1_1\Server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+F:\new\whistler_1_1\Server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+F:\new\whistler_1_1\Server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\new\whistler_1_1\Server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+F:\new\whistler_1_1\Server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+F:\new\whistler_1_1\Server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\new\whistler_1_1\Server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\new\whistler_1_1\Server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\new\whistler_1_1\Server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\new\whistler_1_1\Server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\new\whistler_1_1\Server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\new\whistler_1_1\Server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\new\whistler_1_1\Server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\new\whistler_1_1\Server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\new\whistler_1_1\Server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\new\whistler_1_1\Server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\new\whistler_1_1\Server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\new\whistler_1_1\Server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\new\whistler_1_1\Server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\new\whistler_1_1\Server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\new\whistler_1_1\Server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\new\whistler_1_1\Server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\new\whistler_1_1\Server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\new\whistler_1_1\Server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\new\whistler_1_1\Server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\new\whistler_1_1\Server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\new\whistler_1_1\Server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\new\whistler_1_1\Server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\new\whistler_1_1\Server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\new\whistler_1_1\Server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\new\whistler_1_1\Server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\new\whistler_1_1\Server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\new\whistler_1_1\Server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\new\whistler_1_1\Server\Whistler.UpdateR\obj\Debug\netcoreapp3.1\Whistler.UpdateR.AssemblyInfoInputs.cache
+F:\new\whistler_1_1\Server\Whistler.UpdateR\obj\Debug\netcoreapp3.1\Whistler.UpdateR.AssemblyInfo.cs
+F:\new\whistler_1_1\Server\Whistler.UpdateR\obj\Debug\netcoreapp3.1\Whistler.UpdateR.csproj.CoreCompileInputs.cache
+F:\new\whistler_1_1\Server\Whistler.UpdateR\obj\Debug\netcoreapp3.1\Whistler.UpdateR.csproj.CopyComplete
+F:\new\whistler_1_1\Server\Whistler.UpdateR\obj\Debug\netcoreapp3.1\Whistler.UpdateR.dll
+F:\new\whistler_1_1\Server\Whistler.UpdateR\obj\Debug\netcoreapp3.1\Whistler.UpdateR.pdb
+F:\new\whistler_1_1\Server\Whistler.UpdateR\obj\Debug\netcoreapp3.1\Whistler.UpdateR.csprojAssemblyReference.cache
+F:\new\whistler\Server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\Whistler.UpdateR.deps.json
+F:\new\whistler\Server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\Whistler.UpdateR.dll
+F:\new\whistler\Server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\Whistler.UpdateR.pdb
+F:\new\whistler\Server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\Bootstrapper.dll
+F:\new\whistler\Server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\Colorful.Console.dll
+F:\new\whistler\Server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+F:\new\whistler\Server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+F:\new\whistler\Server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\new\whistler\Server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\NeoSmart.Hashing.dll
+F:\new\whistler\Server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\xxHash.dll
+F:\new\whistler\Server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\Ben.Demystifier.dll
+F:\new\whistler\Server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\new\whistler\Server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\Bootstrapper.xml
+F:\new\whistler\Server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+F:\new\whistler\Server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+F:\new\whistler\Server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+F:\new\whistler\Server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+F:\new\whistler\Server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+F:\new\whistler\Server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+F:\new\whistler\Server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+F:\new\whistler\Server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+F:\new\whistler\Server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\new\whistler\Server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+F:\new\whistler\Server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+F:\new\whistler\Server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\new\whistler\Server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\new\whistler\Server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\new\whistler\Server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\new\whistler\Server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\new\whistler\Server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\new\whistler\Server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\new\whistler\Server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\new\whistler\Server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\new\whistler\Server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\new\whistler\Server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\new\whistler\Server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\new\whistler\Server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\new\whistler\Server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\new\whistler\Server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\new\whistler\Server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\new\whistler\Server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\new\whistler\Server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\new\whistler\Server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\new\whistler\Server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\new\whistler\Server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\new\whistler\Server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\new\whistler\Server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\new\whistler\Server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\new\whistler\Server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\new\whistler\Server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\new\whistler\Server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\new\whistler\Server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\new\whistler\Server\Whistler.UpdateR\obj\Debug\netcoreapp3.1\Whistler.UpdateR.AssemblyInfoInputs.cache
+F:\new\whistler\Server\Whistler.UpdateR\obj\Debug\netcoreapp3.1\Whistler.UpdateR.AssemblyInfo.cs
+F:\new\whistler\Server\Whistler.UpdateR\obj\Debug\netcoreapp3.1\Whistler.UpdateR.csproj.CoreCompileInputs.cache
+F:\new\whistler\Server\Whistler.UpdateR\obj\Debug\netcoreapp3.1\Whistler.UpdateR.csproj.CopyComplete
+F:\new\whistler\Server\Whistler.UpdateR\obj\Debug\netcoreapp3.1\Whistler.UpdateR.dll
+F:\new\whistler\Server\Whistler.UpdateR\obj\Debug\netcoreapp3.1\Whistler.UpdateR.pdb
+F:\new\whistler\Server\Whistler.UpdateR\obj\Debug\netcoreapp3.1\Whistler.UpdateR.csproj.AssemblyReference.cache
+F:\new\whistler\Server\Whistler.UpdateR\obj\Debug\netcoreapp3.1\Whistler.UpdateR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amazing\Desktop\server\dotnet\resources\Whistler.UpdateR\obj\Debug\netcoreapp3.1\Whistler.UpdateR.csproj.AssemblyReference.cache
+C:\Users\Amazing\Desktop\server\dotnet\resources\Whistler.UpdateR\obj\Debug\netcoreapp3.1\Whistler.UpdateR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amazing\Desktop\server\dotnet\resources\Whistler.UpdateR\obj\Debug\netcoreapp3.1\Whistler.UpdateR.AssemblyInfoInputs.cache
+C:\Users\Amazing\Desktop\server\dotnet\resources\Whistler.UpdateR\obj\Debug\netcoreapp3.1\Whistler.UpdateR.AssemblyInfo.cs
+C:\Users\Amazing\Desktop\server\dotnet\resources\Whistler.UpdateR\obj\Debug\netcoreapp3.1\Whistler.UpdateR.csproj.CoreCompileInputs.cache
+C:\Users\Amazing\Desktop\server\dotnet\resources\Whistler.UpdateR\obj\Debug\netcoreapp3.1\Whistler.UpdateR.dll
+C:\Users\Amazing\Desktop\server\dotnet\resources\Whistler.UpdateR\obj\Debug\netcoreapp3.1\Whistler.UpdateR.pdb
+C:\Users\Amazing\Desktop\server\dotnet\resources\Whistler.UpdateR\bin\Debug\netcoreapp3.1\Whistler.UpdateR.deps.json
+C:\Users\Amazing\Desktop\server\dotnet\resources\Whistler.UpdateR\bin\Debug\netcoreapp3.1\Whistler.UpdateR.dll
+C:\Users\Amazing\Desktop\server\dotnet\resources\Whistler.UpdateR\bin\Debug\netcoreapp3.1\Whistler.UpdateR.pdb
+C:\Users\Amazing\Desktop\server\dotnet\resources\Whistler.UpdateR\bin\Debug\netcoreapp3.1\Bootstrapper.dll
+C:\Users\Amazing\Desktop\server\dotnet\resources\Whistler.UpdateR\bin\Debug\netcoreapp3.1\Colorful.Console.dll
+C:\Users\Amazing\Desktop\server\dotnet\resources\Whistler.UpdateR\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Amazing\Desktop\server\dotnet\resources\Whistler.UpdateR\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Amazing\Desktop\server\dotnet\resources\Whistler.UpdateR\bin\Debug\netcoreapp3.1\NeoSmart.Hashing.dll
+C:\Users\Amazing\Desktop\server\dotnet\resources\Whistler.UpdateR\bin\Debug\netcoreapp3.1\xxHash.dll
+C:\Users\Amazing\Desktop\server\dotnet\resources\Whistler.UpdateR\bin\Debug\netcoreapp3.1\Ben.Demystifier.dll
+C:\Users\Amazing\Desktop\server\dotnet\resources\Whistler.UpdateR\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Amazing\Desktop\server\dotnet\resources\Whistler.UpdateR\obj\Debug\netcoreapp3.1\Whistler.UpdateR.csproj.CopyComplete
+C:\Users\Amazing\Desktop\server\dotnet\resources\src\Whistler.UpdateR\bin\Debug\netcoreapp3.1\Whistler.UpdateR.deps.json
+C:\Users\Amazing\Desktop\server\dotnet\resources\src\Whistler.UpdateR\bin\Debug\netcoreapp3.1\Whistler.UpdateR.dll
+C:\Users\Amazing\Desktop\server\dotnet\resources\src\Whistler.UpdateR\bin\Debug\netcoreapp3.1\Whistler.UpdateR.pdb
+C:\Users\Amazing\Desktop\server\dotnet\resources\src\Whistler.UpdateR\bin\Debug\netcoreapp3.1\Bootstrapper.dll
+C:\Users\Amazing\Desktop\server\dotnet\resources\src\Whistler.UpdateR\bin\Debug\netcoreapp3.1\Colorful.Console.dll
+C:\Users\Amazing\Desktop\server\dotnet\resources\src\Whistler.UpdateR\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Amazing\Desktop\server\dotnet\resources\src\Whistler.UpdateR\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Amazing\Desktop\server\dotnet\resources\src\Whistler.UpdateR\bin\Debug\netcoreapp3.1\NeoSmart.Hashing.dll
+C:\Users\Amazing\Desktop\server\dotnet\resources\src\Whistler.UpdateR\bin\Debug\netcoreapp3.1\xxHash.dll
+C:\Users\Amazing\Desktop\server\dotnet\resources\src\Whistler.UpdateR\bin\Debug\netcoreapp3.1\Ben.Demystifier.dll
+C:\Users\Amazing\Desktop\server\dotnet\resources\src\Whistler.UpdateR\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Amazing\Desktop\server\dotnet\resources\src\Whistler.UpdateR\obj\Debug\netcoreapp3.1\Whistler.UpdateR.csproj.AssemblyReference.cache
+C:\Users\Amazing\Desktop\server\dotnet\resources\src\Whistler.UpdateR\obj\Debug\netcoreapp3.1\Whistler.UpdateR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amazing\Desktop\server\dotnet\resources\src\Whistler.UpdateR\obj\Debug\netcoreapp3.1\Whistler.UpdateR.AssemblyInfoInputs.cache
+C:\Users\Amazing\Desktop\server\dotnet\resources\src\Whistler.UpdateR\obj\Debug\netcoreapp3.1\Whistler.UpdateR.AssemblyInfo.cs
+C:\Users\Amazing\Desktop\server\dotnet\resources\src\Whistler.UpdateR\obj\Debug\netcoreapp3.1\Whistler.UpdateR.csproj.CoreCompileInputs.cache
+C:\Users\Amazing\Desktop\server\dotnet\resources\src\Whistler.UpdateR\obj\Debug\netcoreapp3.1\Whistler.UpdateR.csproj.CopyComplete
+C:\Users\Amazing\Desktop\server\dotnet\resources\src\Whistler.UpdateR\obj\Debug\netcoreapp3.1\Whistler.UpdateR.dll
+C:\Users\Amazing\Desktop\server\dotnet\resources\src\Whistler.UpdateR\obj\Debug\netcoreapp3.1\Whistler.UpdateR.pdb
+C:\Users\Amazing\Desktop\server\Server Source\Whistler.UpdateR\bin\Debug\netcoreapp3.1\Whistler.UpdateR.deps.json
+C:\Users\Amazing\Desktop\server\Server Source\Whistler.UpdateR\bin\Debug\netcoreapp3.1\Whistler.UpdateR.dll
+C:\Users\Amazing\Desktop\server\Server Source\Whistler.UpdateR\bin\Debug\netcoreapp3.1\Whistler.UpdateR.pdb
+C:\Users\Amazing\Desktop\server\Server Source\Whistler.UpdateR\bin\Debug\netcoreapp3.1\Bootstrapper.dll
+C:\Users\Amazing\Desktop\server\Server Source\Whistler.UpdateR\bin\Debug\netcoreapp3.1\Colorful.Console.dll
+C:\Users\Amazing\Desktop\server\Server Source\Whistler.UpdateR\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Amazing\Desktop\server\Server Source\Whistler.UpdateR\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Amazing\Desktop\server\Server Source\Whistler.UpdateR\bin\Debug\netcoreapp3.1\NeoSmart.Hashing.dll
+C:\Users\Amazing\Desktop\server\Server Source\Whistler.UpdateR\bin\Debug\netcoreapp3.1\xxHash.dll
+C:\Users\Amazing\Desktop\server\Server Source\Whistler.UpdateR\bin\Debug\netcoreapp3.1\Ben.Demystifier.dll
+C:\Users\Amazing\Desktop\server\Server Source\Whistler.UpdateR\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Amazing\Desktop\server\Server Source\Whistler.UpdateR\obj\Debug\netcoreapp3.1\Whistler.UpdateR.csproj.AssemblyReference.cache
+C:\Users\Amazing\Desktop\server\Server Source\Whistler.UpdateR\obj\Debug\netcoreapp3.1\Whistler.UpdateR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amazing\Desktop\server\Server Source\Whistler.UpdateR\obj\Debug\netcoreapp3.1\Whistler.UpdateR.AssemblyInfoInputs.cache
+C:\Users\Amazing\Desktop\server\Server Source\Whistler.UpdateR\obj\Debug\netcoreapp3.1\Whistler.UpdateR.AssemblyInfo.cs
+C:\Users\Amazing\Desktop\server\Server Source\Whistler.UpdateR\obj\Debug\netcoreapp3.1\Whistler.UpdateR.csproj.CoreCompileInputs.cache
+C:\Users\Amazing\Desktop\server\Server Source\Whistler.UpdateR\obj\Debug\netcoreapp3.1\Whistler.UpdateR.csproj.CopyComplete
+C:\Users\Amazing\Desktop\server\Server Source\Whistler.UpdateR\obj\Debug\netcoreapp3.1\Whistler.UpdateR.dll
+C:\Users\Amazing\Desktop\server\Server Source\Whistler.UpdateR\obj\Debug\netcoreapp3.1\Whistler.UpdateR.pdb
+D:\mikZZZ-Server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\Whistler.UpdateR.deps.json
+D:\mikZZZ-Server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\Whistler.UpdateR.dll
+D:\mikZZZ-Server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\Whistler.UpdateR.pdb
+D:\mikZZZ-Server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\Bootstrapper.dll
+D:\mikZZZ-Server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\Colorful.Console.dll
+D:\mikZZZ-Server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\mikZZZ-Server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\mikZZZ-Server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\NeoSmart.Hashing.dll
+D:\mikZZZ-Server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\xxHash.dll
+D:\mikZZZ-Server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\Ben.Demystifier.dll
+D:\mikZZZ-Server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\mikZZZ-Server\Whistler.UpdateR\obj\Debug\netcoreapp3.1\Whistler.UpdateR.csproj.AssemblyReference.cache
+D:\mikZZZ-Server\Whistler.UpdateR\obj\Debug\netcoreapp3.1\Whistler.UpdateR.GeneratedMSBuildEditorConfig.editorconfig
+D:\mikZZZ-Server\Whistler.UpdateR\obj\Debug\netcoreapp3.1\Whistler.UpdateR.AssemblyInfoInputs.cache
+D:\mikZZZ-Server\Whistler.UpdateR\obj\Debug\netcoreapp3.1\Whistler.UpdateR.AssemblyInfo.cs
+D:\mikZZZ-Server\Whistler.UpdateR\obj\Debug\netcoreapp3.1\Whistler.UpdateR.csproj.CoreCompileInputs.cache
+D:\mikZZZ-Server\Whistler.UpdateR\obj\Debug\netcoreapp3.1\Whistler.UpdateR.csproj.CopyComplete
+D:\mikZZZ-Server\Whistler.UpdateR\obj\Debug\netcoreapp3.1\Whistler.UpdateR.dll
+D:\mikZZZ-Server\Whistler.UpdateR\obj\Debug\netcoreapp3.1\Whistler.UpdateR.pdb
+C:\gta go\isxondiki\ELITE-Server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\Whistler.UpdateR.deps.json
+C:\gta go\isxondiki\ELITE-Server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\Whistler.UpdateR.dll
+C:\gta go\isxondiki\ELITE-Server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\Whistler.UpdateR.pdb
+C:\gta go\isxondiki\ELITE-Server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\Bootstrapper.dll
+C:\gta go\isxondiki\ELITE-Server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\Colorful.Console.dll
+C:\gta go\isxondiki\ELITE-Server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\gta go\isxondiki\ELITE-Server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\gta go\isxondiki\ELITE-Server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\NeoSmart.Hashing.dll
+C:\gta go\isxondiki\ELITE-Server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\xxHash.dll
+C:\gta go\isxondiki\ELITE-Server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\Ben.Demystifier.dll
+C:\gta go\isxondiki\ELITE-Server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\gta go\isxondiki\ELITE-Server\Whistler.UpdateR\obj\Debug\netcoreapp3.1\Whistler.UpdateR.csproj.AssemblyReference.cache
+C:\gta go\isxondiki\ELITE-Server\Whistler.UpdateR\obj\Debug\netcoreapp3.1\Whistler.UpdateR.GeneratedMSBuildEditorConfig.editorconfig
+C:\gta go\isxondiki\ELITE-Server\Whistler.UpdateR\obj\Debug\netcoreapp3.1\Whistler.UpdateR.AssemblyInfoInputs.cache
+C:\gta go\isxondiki\ELITE-Server\Whistler.UpdateR\obj\Debug\netcoreapp3.1\Whistler.UpdateR.AssemblyInfo.cs
+C:\gta go\isxondiki\ELITE-Server\Whistler.UpdateR\obj\Debug\netcoreapp3.1\Whistler.UpdateR.csproj.CoreCompileInputs.cache
+C:\gta go\isxondiki\ELITE-Server\Whistler.UpdateR\obj\Debug\netcoreapp3.1\Whistler.UpdateR.csproj.CopyComplete
+C:\gta go\isxondiki\ELITE-Server\Whistler.UpdateR\obj\Debug\netcoreapp3.1\Whistler.UpdateR.dll
+C:\gta go\isxondiki\ELITE-Server\Whistler.UpdateR\obj\Debug\netcoreapp3.1\Whistler.UpdateR.pdb
+E:\RageMP (Project)\GTA GO\server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\Whistler.UpdateR.deps.json
+E:\RageMP (Project)\GTA GO\server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\Whistler.UpdateR.dll
+E:\RageMP (Project)\GTA GO\server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\Whistler.UpdateR.pdb
+E:\RageMP (Project)\GTA GO\server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\Bootstrapper.dll
+E:\RageMP (Project)\GTA GO\server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\Colorful.Console.dll
+E:\RageMP (Project)\GTA GO\server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\RageMP (Project)\GTA GO\server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\RageMP (Project)\GTA GO\server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\NeoSmart.Hashing.dll
+E:\RageMP (Project)\GTA GO\server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\xxHash.dll
+E:\RageMP (Project)\GTA GO\server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\Ben.Demystifier.dll
+E:\RageMP (Project)\GTA GO\server\Whistler.UpdateR\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\RageMP (Project)\GTA GO\server\Whistler.UpdateR\obj\Debug\netcoreapp3.1\Whistler.UpdateR.csproj.AssemblyReference.cache
+E:\RageMP (Project)\GTA GO\server\Whistler.UpdateR\obj\Debug\netcoreapp3.1\Whistler.UpdateR.GeneratedMSBuildEditorConfig.editorconfig
+E:\RageMP (Project)\GTA GO\server\Whistler.UpdateR\obj\Debug\netcoreapp3.1\Whistler.UpdateR.AssemblyInfoInputs.cache
+E:\RageMP (Project)\GTA GO\server\Whistler.UpdateR\obj\Debug\netcoreapp3.1\Whistler.UpdateR.AssemblyInfo.cs
+E:\RageMP (Project)\GTA GO\server\Whistler.UpdateR\obj\Debug\netcoreapp3.1\Whistler.UpdateR.csproj.CoreCompileInputs.cache
+E:\RageMP (Project)\GTA GO\server\Whistler.UpdateR\obj\Debug\netcoreapp3.1\Whistler.UpdateR.csproj.CopyComplete
+E:\RageMP (Project)\GTA GO\server\Whistler.UpdateR\obj\Debug\netcoreapp3.1\Whistler.UpdateR.dll
+E:\RageMP (Project)\GTA GO\server\Whistler.UpdateR\obj\Debug\netcoreapp3.1\Whistler.UpdateR.pdb

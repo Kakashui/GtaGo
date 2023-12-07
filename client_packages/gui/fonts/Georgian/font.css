@@ -1,0 +1,25 @@
+
+@font-face {
+    font-family: 'Georgian';
+    src: url('archyedt-bold-webfont.eot') format('embedded-opentype'),
+    url('archyedt-bold-webfont.woff') format('woff'),
+    url('archyedt-bold-webfont.ttf') format('truetype');
+    font-weight: lighter;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Georgian';
+    src: url('archyedt-bold-webfont.eot') format('embedded-opentype'),
+    url('archyedt-bold-webfont.woff') format('woff'),
+    url('archyedt-bold-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Georgian';
+    src: url('archyedt-bold-webfont.eot') format('embedded-opentype'),
+    url('archyedt-bold-webfont.woff') format('woff'),
+    url('archyedt-bold-webfont.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}

@@ -1,0 +1,109 @@
+<template>
+  <div class="list-item" @click="$emit('event')">
+    <div 
+      class="list-item__avatar"
+      v-bind:class="{avatarOnline : item.IsOnline === true}"
+    ></div>
+    <div class="list-item__info">
+      <div class="nickname">{{item.DisplayedName}}</div>
+      <div 
+        class="status"
+        v-if="item.IsOnline === true"
+      >Online</div>
+      <div 
+        class="status"
+        v-else
+      >{{lastVisitDate}}</div>
+    </div>
+  </div>
+</template>
+
+<script>
+export default {
+  name: 'ListItem',
+
+  props: {
+    item: Object
+  },
+
+  computed: {
+    lastVisitDate: function() {
+      const receivedDate = new Date(this.$props.item.LastVisitTime)
+      const currentDate = new Date()
+      let rightDate = ''
+
+      if (receivedDate.toLocaleDateString() === currentDate.toLocaleDateString()) {
+        rightDate = receivedDate.toLocaleTimeString(undefined, { hour: 'numeric', minute: 'numeric' })
+      } else {
+        rightDate = receivedDate.toLocaleDateString()
+      }
+
+      return rightDate
+    }
+  }
+}
+</script>
+
+<style lang="scss" scoped>
+  .list-item{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    &:last-child{
+      .list-item__info{
+        border-bottom: 0;
+      }
+    }
+    &__avatar{
+      margin-right: .5rem;
+      width: 2rem;
+      height: 2rem;
+      min-width: 2rem;
+      min-height: 2rem;
+      position: relative;
+      background-image: url('/img/hud/smartphone/messengerTab/chatSection/canalOptions/avatar.png');
+      background-size: contain;
+      background-repeat: no-repeat;
+      background-position: center;
+      &.avatarOnline{
+        &:after{
+          position: absolute;
+          right: 1px;
+          top: 1px;
+          content: '';
+          width: .6rem;
+          height: .6rem;
+          box-sizing: border-box;
+          border-radius: 50%;
+          background: #4BDB4B;
+          border: .1rem solid #FFFFFF;
+        }
+      }
+    }
+    &__info{
+      width: 100%;
+      display: flex;
+      flex-flow: column;
+      align-items: flex-start;
+      justify-content: center;
+      padding: .5rem 0;
+      border-bottom: 1px solid rgba(195, 195, 195, 0.35);
+      .nickname{
+        font-weight: normal;
+        font-size: .8rem;
+        line-height: .95rem;
+        color: #020202;
+        margin-bottom: .25rem;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        width: 11.1rem;
+      }
+      .status{
+        font-size: .65rem;
+        line-height: .8rem;
+        color: #9E9EA2;
+      }
+    }
+  }
+</style>

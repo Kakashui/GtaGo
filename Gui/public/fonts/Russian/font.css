@@ -1,0 +1,25 @@
+
+@font-face {
+    font-family: 'Russian';
+    src: url('BebasNeuePro-Light.eot') format('embedded-opentype'),
+    url('BebasNeuePro-Light.woff') format('woff'),
+    url('BebasNeuePro-Light.ttf') format('truetype');
+    font-weight: lighter;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Russian';
+    src: url('BebasNeuePro-Regular.eot') format('embedded-opentype'),
+    url('BebasNeuePro-Regular.woff') format('woff'),
+    url('BebasNeuePro-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Russian';
+    src: url('BebasNeuePro-SemiExpBoldItalic.eot') format('embedded-opentype'),
+    url('BebasNeuePro-SemiExpBoldItalic.woff') format('woff'),
+    url('BebasNeuePro-SemiExpBoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}

@@ -1,0 +1,38 @@
+@import "./colors";
+@import "./gearShop";
+@import "./cage";
+@import "./gearShopCard";
+@import "./fishTrader";
+
+
+.loading{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+    z-index: 1000;
+    top: 0;
+    left: 0;
+    background-color: rgba(#000, .8);
+}
+.fishing{
+    position: absolute;
+    left: 0;
+    top: 0;
+    align-items: center;
+    height: 100vh;
+    width: 100vw;
+    background-color: rgba(34, 33, 33, 0.95);
+    &-body{
+        max-width: 1920px;
+        height: 100%;
+        position: relative;
+        margin: auto;
+        display: flex;
+        justify-content: center;
+    }
+    *{        
+        color: $clr_3;
+    }
+}

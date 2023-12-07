@@ -1,0 +1,272 @@
+D:\mikZZZ-Server\Whistler\bin\x64\Debug\netcoreapp3.1\meta.xml
+D:\mikZZZ-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Whistler.deps.json
+D:\mikZZZ-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Whistler.runtimeconfig.json
+D:\mikZZZ-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Whistler.runtimeconfig.dev.json
+D:\mikZZZ-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Whistler.dll
+D:\mikZZZ-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Whistler.pdb
+D:\mikZZZ-Server\Whistler\bin\x64\Debug\netcoreapp3.1\AutoMapper.dll
+D:\mikZZZ-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\mikZZZ-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\mikZZZ-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\mikZZZ-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\mikZZZ-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\mikZZZ-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\mikZZZ-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\mikZZZ-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\mikZZZ-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\mikZZZ-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\mikZZZ-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\mikZZZ-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\mikZZZ-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+D:\mikZZZ-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\mikZZZ-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\mikZZZ-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\mikZZZ-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+D:\mikZZZ-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\mikZZZ-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\mikZZZ-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\mikZZZ-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\mikZZZ-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\mikZZZ-Server\Whistler\bin\x64\Debug\netcoreapp3.1\MySqlConnector.dll
+D:\mikZZZ-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\mikZZZ-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+D:\mikZZZ-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+D:\mikZZZ-Server\Whistler\bin\x64\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\mikZZZ-Server\Whistler\bin\x64\Debug\netcoreapp3.1\System.Data.SQLite.dll
+D:\mikZZZ-Server\Whistler\bin\x64\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\mikZZZ-Server\Whistler\bin\x64\Debug\netcoreapp3.1\websocket-sharp-core.dll
+D:\mikZZZ-Server\Whistler\bin\x64\Debug\netcoreapp3.1\runtimes\linux-x64\native\netstandard2.0\SQLite.Interop.dll
+D:\mikZZZ-Server\Whistler\bin\x64\Debug\netcoreapp3.1\runtimes\osx-x64\native\netstandard2.0\SQLite.Interop.dll
+D:\mikZZZ-Server\Whistler\bin\x64\Debug\netcoreapp3.1\runtimes\win-x64\native\netstandard2.0\SQLite.Interop.dll
+D:\mikZZZ-Server\Whistler\bin\x64\Debug\netcoreapp3.1\runtimes\win-x86\native\netstandard2.0\SQLite.Interop.dll
+D:\mikZZZ-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Bootstrapper.dll
+D:\mikZZZ-Server\Whistler\bin\x64\Debug\netcoreapp3.1\MessagePack.Annotations.dll
+D:\mikZZZ-Server\Whistler\bin\x64\Debug\netcoreapp3.1\MessagePack.dll
+D:\mikZZZ-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Whistler.Domain.dll
+D:\mikZZZ-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Whistler.Infrastructure.Common.dll
+D:\mikZZZ-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.dll
+D:\mikZZZ-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Whistler.UpdateR.dll
+D:\mikZZZ-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Colorful.Console.dll
+D:\mikZZZ-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\mikZZZ-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\mikZZZ-Server\Whistler\bin\x64\Debug\netcoreapp3.1\NeoSmart.Hashing.dll
+D:\mikZZZ-Server\Whistler\bin\x64\Debug\netcoreapp3.1\xxHash.dll
+D:\mikZZZ-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Ben.Demystifier.dll
+D:\mikZZZ-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\mikZZZ-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.pdb
+D:\mikZZZ-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Whistler.Domain.pdb
+D:\mikZZZ-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Whistler.Infrastructure.Common.pdb
+D:\mikZZZ-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Whistler.UpdateR.pdb
+D:\mikZZZ-Server\Whistler\obj\x64\Debug\netcoreapp3.1\Whistler.csproj.AssemblyReference.cache
+D:\mikZZZ-Server\Whistler\obj\x64\Debug\netcoreapp3.1\Whistler.GeneratedMSBuildEditorConfig.editorconfig
+D:\mikZZZ-Server\Whistler\obj\x64\Debug\netcoreapp3.1\Whistler.AssemblyInfoInputs.cache
+D:\mikZZZ-Server\Whistler\obj\x64\Debug\netcoreapp3.1\Whistler.AssemblyInfo.cs
+D:\mikZZZ-Server\Whistler\obj\x64\Debug\netcoreapp3.1\Whistler.csproj.CoreCompileInputs.cache
+D:\mikZZZ-Server\Whistler\obj\x64\Debug\netcoreapp3.1\Whistler.csproj.CopyComplete
+D:\mikZZZ-Server\Whistler\obj\x64\Debug\netcoreapp3.1\Whistler.dll
+D:\mikZZZ-Server\Whistler\obj\x64\Debug\netcoreapp3.1\Whistler.pdb
+D:\mikZZZ-Server\Whistler\obj\x64\Debug\netcoreapp3.1\Whistler.genruntimeconfig.cache
+D:\GTA-Server\Whistler\obj\x64\Debug\netcoreapp3.1\Whistler.csproj.AssemblyReference.cache
+D:\GTA-Server\Whistler\obj\x64\Debug\netcoreapp3.1\Whistler.GeneratedMSBuildEditorConfig.editorconfig
+D:\GTA-Server\Whistler\obj\x64\Debug\netcoreapp3.1\Whistler.AssemblyInfoInputs.cache
+D:\GTA-Server\Whistler\obj\x64\Debug\netcoreapp3.1\Whistler.AssemblyInfo.cs
+D:\GTA-Server\Whistler\obj\x64\Debug\netcoreapp3.1\Whistler.csproj.CoreCompileInputs.cache
+D:\GTA-Server\Whistler\obj\x64\Debug\netcoreapp3.1\Whistler.dll
+D:\GTA-Server\Whistler\obj\x64\Debug\netcoreapp3.1\Whistler.pdb
+D:\GTA-Server\Whistler\bin\x64\Debug\netcoreapp3.1\meta.xml
+D:\GTA-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Whistler.deps.json
+D:\GTA-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Whistler.runtimeconfig.json
+D:\GTA-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Whistler.runtimeconfig.dev.json
+D:\GTA-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Whistler.dll
+D:\GTA-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Whistler.pdb
+D:\GTA-Server\Whistler\bin\x64\Debug\netcoreapp3.1\AutoMapper.dll
+D:\GTA-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\GTA-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\GTA-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\GTA-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\GTA-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\GTA-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\GTA-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\GTA-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\GTA-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\GTA-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\GTA-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\GTA-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\GTA-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+D:\GTA-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\GTA-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\GTA-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\GTA-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+D:\GTA-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\GTA-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\GTA-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\GTA-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\GTA-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\GTA-Server\Whistler\bin\x64\Debug\netcoreapp3.1\MySqlConnector.dll
+D:\GTA-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\GTA-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+D:\GTA-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+D:\GTA-Server\Whistler\bin\x64\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\GTA-Server\Whistler\bin\x64\Debug\netcoreapp3.1\System.Data.SQLite.dll
+D:\GTA-Server\Whistler\bin\x64\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\GTA-Server\Whistler\bin\x64\Debug\netcoreapp3.1\websocket-sharp-core.dll
+D:\GTA-Server\Whistler\bin\x64\Debug\netcoreapp3.1\runtimes\linux-x64\native\netstandard2.0\SQLite.Interop.dll
+D:\GTA-Server\Whistler\bin\x64\Debug\netcoreapp3.1\runtimes\osx-x64\native\netstandard2.0\SQLite.Interop.dll
+D:\GTA-Server\Whistler\bin\x64\Debug\netcoreapp3.1\runtimes\win-x64\native\netstandard2.0\SQLite.Interop.dll
+D:\GTA-Server\Whistler\bin\x64\Debug\netcoreapp3.1\runtimes\win-x86\native\netstandard2.0\SQLite.Interop.dll
+D:\GTA-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Bootstrapper.dll
+D:\GTA-Server\Whistler\bin\x64\Debug\netcoreapp3.1\MessagePack.Annotations.dll
+D:\GTA-Server\Whistler\bin\x64\Debug\netcoreapp3.1\MessagePack.dll
+D:\GTA-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Whistler.Domain.dll
+D:\GTA-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Whistler.Infrastructure.Common.dll
+D:\GTA-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.dll
+D:\GTA-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Whistler.UpdateR.dll
+D:\GTA-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Colorful.Console.dll
+D:\GTA-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\GTA-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\GTA-Server\Whistler\bin\x64\Debug\netcoreapp3.1\NeoSmart.Hashing.dll
+D:\GTA-Server\Whistler\bin\x64\Debug\netcoreapp3.1\xxHash.dll
+D:\GTA-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Ben.Demystifier.dll
+D:\GTA-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\GTA-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.pdb
+D:\GTA-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Whistler.Domain.pdb
+D:\GTA-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Whistler.Infrastructure.Common.pdb
+D:\GTA-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Whistler.UpdateR.pdb
+D:\GTA-Server\Whistler\obj\x64\Debug\netcoreapp3.1\Whistler.csproj.CopyComplete
+D:\GTA-Server\Whistler\obj\x64\Debug\netcoreapp3.1\Whistler.genruntimeconfig.cache
+C:\gta go\isxondiki\ELITE-Server\Whistler\bin\x64\Debug\netcoreapp3.1\meta.xml
+C:\gta go\isxondiki\ELITE-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Whistler.deps.json
+C:\gta go\isxondiki\ELITE-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Whistler.runtimeconfig.json
+C:\gta go\isxondiki\ELITE-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Whistler.runtimeconfig.dev.json
+C:\gta go\isxondiki\ELITE-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Whistler.dll
+C:\gta go\isxondiki\ELITE-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Whistler.pdb
+C:\gta go\isxondiki\ELITE-Server\Whistler\bin\x64\Debug\netcoreapp3.1\AutoMapper.dll
+C:\gta go\isxondiki\ELITE-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\gta go\isxondiki\ELITE-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\gta go\isxondiki\ELITE-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\gta go\isxondiki\ELITE-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\gta go\isxondiki\ELITE-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\gta go\isxondiki\ELITE-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\gta go\isxondiki\ELITE-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\gta go\isxondiki\ELITE-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\gta go\isxondiki\ELITE-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\gta go\isxondiki\ELITE-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\gta go\isxondiki\ELITE-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\gta go\isxondiki\ELITE-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\gta go\isxondiki\ELITE-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\gta go\isxondiki\ELITE-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\gta go\isxondiki\ELITE-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\gta go\isxondiki\ELITE-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\gta go\isxondiki\ELITE-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\gta go\isxondiki\ELITE-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\gta go\isxondiki\ELITE-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\gta go\isxondiki\ELITE-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\gta go\isxondiki\ELITE-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\gta go\isxondiki\ELITE-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\gta go\isxondiki\ELITE-Server\Whistler\bin\x64\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\gta go\isxondiki\ELITE-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\gta go\isxondiki\ELITE-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+C:\gta go\isxondiki\ELITE-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+C:\gta go\isxondiki\ELITE-Server\Whistler\bin\x64\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\gta go\isxondiki\ELITE-Server\Whistler\bin\x64\Debug\netcoreapp3.1\System.Data.SQLite.dll
+C:\gta go\isxondiki\ELITE-Server\Whistler\bin\x64\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\gta go\isxondiki\ELITE-Server\Whistler\bin\x64\Debug\netcoreapp3.1\websocket-sharp-core.dll
+C:\gta go\isxondiki\ELITE-Server\Whistler\bin\x64\Debug\netcoreapp3.1\runtimes\linux-x64\native\netstandard2.0\SQLite.Interop.dll
+C:\gta go\isxondiki\ELITE-Server\Whistler\bin\x64\Debug\netcoreapp3.1\runtimes\osx-x64\native\netstandard2.0\SQLite.Interop.dll
+C:\gta go\isxondiki\ELITE-Server\Whistler\bin\x64\Debug\netcoreapp3.1\runtimes\win-x64\native\netstandard2.0\SQLite.Interop.dll
+C:\gta go\isxondiki\ELITE-Server\Whistler\bin\x64\Debug\netcoreapp3.1\runtimes\win-x86\native\netstandard2.0\SQLite.Interop.dll
+C:\gta go\isxondiki\ELITE-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Bootstrapper.dll
+C:\gta go\isxondiki\ELITE-Server\Whistler\bin\x64\Debug\netcoreapp3.1\MessagePack.Annotations.dll
+C:\gta go\isxondiki\ELITE-Server\Whistler\bin\x64\Debug\netcoreapp3.1\MessagePack.dll
+C:\gta go\isxondiki\ELITE-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Whistler.Domain.dll
+C:\gta go\isxondiki\ELITE-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Whistler.Infrastructure.Common.dll
+C:\gta go\isxondiki\ELITE-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.dll
+C:\gta go\isxondiki\ELITE-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Whistler.UpdateR.dll
+C:\gta go\isxondiki\ELITE-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Colorful.Console.dll
+C:\gta go\isxondiki\ELITE-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\gta go\isxondiki\ELITE-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\gta go\isxondiki\ELITE-Server\Whistler\bin\x64\Debug\netcoreapp3.1\NeoSmart.Hashing.dll
+C:\gta go\isxondiki\ELITE-Server\Whistler\bin\x64\Debug\netcoreapp3.1\xxHash.dll
+C:\gta go\isxondiki\ELITE-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Ben.Demystifier.dll
+C:\gta go\isxondiki\ELITE-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\gta go\isxondiki\ELITE-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.pdb
+C:\gta go\isxondiki\ELITE-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Whistler.Domain.pdb
+C:\gta go\isxondiki\ELITE-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Whistler.Infrastructure.Common.pdb
+C:\gta go\isxondiki\ELITE-Server\Whistler\bin\x64\Debug\netcoreapp3.1\Whistler.UpdateR.pdb
+C:\gta go\isxondiki\ELITE-Server\Whistler\obj\x64\Debug\netcoreapp3.1\Whistler.csproj.AssemblyReference.cache
+C:\gta go\isxondiki\ELITE-Server\Whistler\obj\x64\Debug\netcoreapp3.1\Whistler.GeneratedMSBuildEditorConfig.editorconfig
+C:\gta go\isxondiki\ELITE-Server\Whistler\obj\x64\Debug\netcoreapp3.1\Whistler.AssemblyInfoInputs.cache
+C:\gta go\isxondiki\ELITE-Server\Whistler\obj\x64\Debug\netcoreapp3.1\Whistler.AssemblyInfo.cs
+C:\gta go\isxondiki\ELITE-Server\Whistler\obj\x64\Debug\netcoreapp3.1\Whistler.csproj.CoreCompileInputs.cache
+C:\gta go\isxondiki\ELITE-Server\Whistler\obj\x64\Debug\netcoreapp3.1\Whistler.csproj.CopyComplete
+C:\gta go\isxondiki\ELITE-Server\Whistler\obj\x64\Debug\netcoreapp3.1\Whistler.dll
+C:\gta go\isxondiki\ELITE-Server\Whistler\obj\x64\Debug\netcoreapp3.1\Whistler.pdb
+C:\gta go\isxondiki\ELITE-Server\Whistler\obj\x64\Debug\netcoreapp3.1\Whistler.genruntimeconfig.cache
+E:\RageMP (Project)\GTA GO\server\Whistler\bin\x64\Debug\netcoreapp3.1\meta.xml
+E:\RageMP (Project)\GTA GO\server\Whistler\bin\x64\Debug\netcoreapp3.1\Whistler.deps.json
+E:\RageMP (Project)\GTA GO\server\Whistler\bin\x64\Debug\netcoreapp3.1\Whistler.runtimeconfig.json
+E:\RageMP (Project)\GTA GO\server\Whistler\bin\x64\Debug\netcoreapp3.1\Whistler.runtimeconfig.dev.json
+E:\RageMP (Project)\GTA GO\server\Whistler\bin\x64\Debug\netcoreapp3.1\Whistler.dll
+E:\RageMP (Project)\GTA GO\server\Whistler\bin\x64\Debug\netcoreapp3.1\Whistler.pdb
+E:\RageMP (Project)\GTA GO\server\Whistler\bin\x64\Debug\netcoreapp3.1\AutoMapper.dll
+E:\RageMP (Project)\GTA GO\server\Whistler\bin\x64\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\RageMP (Project)\GTA GO\server\Whistler\bin\x64\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\RageMP (Project)\GTA GO\server\Whistler\bin\x64\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\RageMP (Project)\GTA GO\server\Whistler\bin\x64\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\RageMP (Project)\GTA GO\server\Whistler\bin\x64\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\RageMP (Project)\GTA GO\server\Whistler\bin\x64\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\RageMP (Project)\GTA GO\server\Whistler\bin\x64\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\RageMP (Project)\GTA GO\server\Whistler\bin\x64\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\RageMP (Project)\GTA GO\server\Whistler\bin\x64\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\RageMP (Project)\GTA GO\server\Whistler\bin\x64\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\RageMP (Project)\GTA GO\server\Whistler\bin\x64\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\RageMP (Project)\GTA GO\server\Whistler\bin\x64\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\RageMP (Project)\GTA GO\server\Whistler\bin\x64\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+E:\RageMP (Project)\GTA GO\server\Whistler\bin\x64\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\RageMP (Project)\GTA GO\server\Whistler\bin\x64\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\RageMP (Project)\GTA GO\server\Whistler\bin\x64\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\RageMP (Project)\GTA GO\server\Whistler\bin\x64\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+E:\RageMP (Project)\GTA GO\server\Whistler\bin\x64\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\RageMP (Project)\GTA GO\server\Whistler\bin\x64\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\RageMP (Project)\GTA GO\server\Whistler\bin\x64\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\RageMP (Project)\GTA GO\server\Whistler\bin\x64\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\RageMP (Project)\GTA GO\server\Whistler\bin\x64\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\RageMP (Project)\GTA GO\server\Whistler\bin\x64\Debug\netcoreapp3.1\MySqlConnector.dll
+E:\RageMP (Project)\GTA GO\server\Whistler\bin\x64\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\RageMP (Project)\GTA GO\server\Whistler\bin\x64\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+E:\RageMP (Project)\GTA GO\server\Whistler\bin\x64\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+E:\RageMP (Project)\GTA GO\server\Whistler\bin\x64\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\RageMP (Project)\GTA GO\server\Whistler\bin\x64\Debug\netcoreapp3.1\System.Data.SQLite.dll
+E:\RageMP (Project)\GTA GO\server\Whistler\bin\x64\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\RageMP (Project)\GTA GO\server\Whistler\bin\x64\Debug\netcoreapp3.1\websocket-sharp-core.dll
+E:\RageMP (Project)\GTA GO\server\Whistler\bin\x64\Debug\netcoreapp3.1\runtimes\linux-x64\native\netstandard2.0\SQLite.Interop.dll
+E:\RageMP (Project)\GTA GO\server\Whistler\bin\x64\Debug\netcoreapp3.1\runtimes\osx-x64\native\netstandard2.0\SQLite.Interop.dll
+E:\RageMP (Project)\GTA GO\server\Whistler\bin\x64\Debug\netcoreapp3.1\runtimes\win-x64\native\netstandard2.0\SQLite.Interop.dll
+E:\RageMP (Project)\GTA GO\server\Whistler\bin\x64\Debug\netcoreapp3.1\runtimes\win-x86\native\netstandard2.0\SQLite.Interop.dll
+E:\RageMP (Project)\GTA GO\server\Whistler\bin\x64\Debug\netcoreapp3.1\Bootstrapper.dll
+E:\RageMP (Project)\GTA GO\server\Whistler\bin\x64\Debug\netcoreapp3.1\MessagePack.Annotations.dll
+E:\RageMP (Project)\GTA GO\server\Whistler\bin\x64\Debug\netcoreapp3.1\MessagePack.dll
+E:\RageMP (Project)\GTA GO\server\Whistler\bin\x64\Debug\netcoreapp3.1\Whistler.Domain.dll
+E:\RageMP (Project)\GTA GO\server\Whistler\bin\x64\Debug\netcoreapp3.1\Whistler.Infrastructure.Common.dll
+E:\RageMP (Project)\GTA GO\server\Whistler\bin\x64\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.dll
+E:\RageMP (Project)\GTA GO\server\Whistler\bin\x64\Debug\netcoreapp3.1\Whistler.UpdateR.dll
+E:\RageMP (Project)\GTA GO\server\Whistler\bin\x64\Debug\netcoreapp3.1\Colorful.Console.dll
+E:\RageMP (Project)\GTA GO\server\Whistler\bin\x64\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\RageMP (Project)\GTA GO\server\Whistler\bin\x64\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\RageMP (Project)\GTA GO\server\Whistler\bin\x64\Debug\netcoreapp3.1\NeoSmart.Hashing.dll
+E:\RageMP (Project)\GTA GO\server\Whistler\bin\x64\Debug\netcoreapp3.1\xxHash.dll
+E:\RageMP (Project)\GTA GO\server\Whistler\bin\x64\Debug\netcoreapp3.1\Ben.Demystifier.dll
+E:\RageMP (Project)\GTA GO\server\Whistler\bin\x64\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\RageMP (Project)\GTA GO\server\Whistler\bin\x64\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.pdb
+E:\RageMP (Project)\GTA GO\server\Whistler\bin\x64\Debug\netcoreapp3.1\Whistler.Domain.pdb
+E:\RageMP (Project)\GTA GO\server\Whistler\bin\x64\Debug\netcoreapp3.1\Whistler.Infrastructure.Common.pdb
+E:\RageMP (Project)\GTA GO\server\Whistler\bin\x64\Debug\netcoreapp3.1\Whistler.UpdateR.pdb
+E:\RageMP (Project)\GTA GO\server\Whistler\obj\x64\Debug\netcoreapp3.1\Whistler.csproj.AssemblyReference.cache
+E:\RageMP (Project)\GTA GO\server\Whistler\obj\x64\Debug\netcoreapp3.1\Whistler.GeneratedMSBuildEditorConfig.editorconfig
+E:\RageMP (Project)\GTA GO\server\Whistler\obj\x64\Debug\netcoreapp3.1\Whistler.AssemblyInfoInputs.cache
+E:\RageMP (Project)\GTA GO\server\Whistler\obj\x64\Debug\netcoreapp3.1\Whistler.AssemblyInfo.cs
+E:\RageMP (Project)\GTA GO\server\Whistler\obj\x64\Debug\netcoreapp3.1\Whistler.csproj.CoreCompileInputs.cache
+E:\RageMP (Project)\GTA GO\server\Whistler\obj\x64\Debug\netcoreapp3.1\Whistler.csproj.CopyComplete
+E:\RageMP (Project)\GTA GO\server\Whistler\obj\x64\Debug\netcoreapp3.1\Whistler.dll
+E:\RageMP (Project)\GTA GO\server\Whistler\obj\x64\Debug\netcoreapp3.1\Whistler.pdb
+E:\RageMP (Project)\GTA GO\server\Whistler\obj\x64\Debug\netcoreapp3.1\Whistler.genruntimeconfig.cache

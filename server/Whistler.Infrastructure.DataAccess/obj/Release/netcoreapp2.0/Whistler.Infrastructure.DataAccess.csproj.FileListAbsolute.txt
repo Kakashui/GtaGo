@@ -1,0 +1,17 @@
+F:\new\whistler\Server\Whistler.Infrastructure.DataAccess\bin\Release\netcoreapp2.0\Whistler.Infrastructure.DataAccess.deps.json
+F:\new\whistler\Server\Whistler.Infrastructure.DataAccess\bin\Release\netcoreapp2.0\Whistler.Infrastructure.DataAccess.dll
+F:\new\whistler\Server\Whistler.Infrastructure.DataAccess\bin\Release\netcoreapp2.0\Whistler.Infrastructure.DataAccess.pdb
+F:\new\whistler\Server\Whistler.Infrastructure.DataAccess\bin\Release\netcoreapp2.0\Whistler.Domain.dll
+F:\new\whistler\Server\Whistler.Infrastructure.DataAccess\bin\Release\netcoreapp2.0\Whistler.Infrastructure.Common.dll
+F:\new\whistler\Server\Whistler.Infrastructure.DataAccess\bin\Release\netcoreapp2.0\Whistler.Domain.pdb
+F:\new\whistler\Server\Whistler.Infrastructure.DataAccess\bin\Release\netcoreapp2.0\Whistler.Infrastructure.Common.pdb
+F:\new\whistler\Server\Whistler.Infrastructure.DataAccess\obj\Release\netcoreapp2.0\Whistler.Infrastructure.DataAccess.csprojAssemblyReference.cache
+F:\new\whistler\Server\Whistler.Infrastructure.DataAccess\obj\Release\netcoreapp2.0\Whistler.Infrastructure.DataAccess.AssemblyInfoInputs.cache
+F:\new\whistler\Server\Whistler.Infrastructure.DataAccess\obj\Release\netcoreapp2.0\Whistler.Infrastructure.DataAccess.AssemblyInfo.cs
+F:\new\whistler\Server\Whistler.Infrastructure.DataAccess\obj\Release\netcoreapp2.0\Whistler.Infrastructure.DataAccess.csproj.CoreCompileInputs.cache
+F:\new\whistler\Server\Whistler.Infrastructure.DataAccess\obj\Release\netcoreapp2.0\Whistler.Infrastructure.DataAccess.csproj.CopyComplete
+F:\new\whistler\Server\Whistler.Infrastructure.DataAccess\obj\Release\netcoreapp2.0\Whistler.Infrastructure.DataAccess.dll
+F:\new\whistler\Server\Whistler.Infrastructure.DataAccess\obj\Release\netcoreapp2.0\Whistler.Infrastructure.DataAccess.pdb
+F:\new\whistler\Server\Whistler.Infrastructure.DataAccess\bin\Release\netcoreapp2.0\Whistler.Infrastructure.DataAccess.runtimeconfig.json
+F:\new\whistler\Server\Whistler.Infrastructure.DataAccess\bin\Release\netcoreapp2.0\Whistler.Infrastructure.DataAccess.runtimeconfig.dev.json
+F:\new\whistler\Server\Whistler.Infrastructure.DataAccess\obj\Release\netcoreapp2.0\Whistler.Infrastructure.DataAccess.genruntimeconfig.cache

@@ -1,0 +1,32 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <Target Name="PostBuild" AfterTargets="PostBuildEvent">
+    <Exec Command="xcopy &quot;$(OutDir)*.dll&quot; &quot;..\..\dotnet\resources\Whistler\*.*&quot; /Q /D /Y&#xD;&#xA;xcopy &quot;$(OutDir)*.pdb&quot; &quot;..\..\dotnet\resources\Whistler\*.*&quot; /Q /D /Y&#xD;&#xA;" />
+  </Target>
+
+  <ItemGroup>
+    <Compile Remove="Migrations\20210302100611_Phone_TaxiOrders.cs" />
+    <Compile Remove="Migrations\20210302100611_Phone_TaxiOrders.Designer.cs" />
+    <Compile Remove="Migrations\20210504132634_Fractions-Access.cs" />
+    <Compile Remove="Migrations\20210504132634_Fractions-Access.Designer.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.9" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Relational" Version="3.1.9" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.1.9">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Pomelo.EntityFrameworkCore.MySql" Version="3.2.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Whistler.Domain\Whistler.Domain.csproj" />
+    <ProjectReference Include="..\Whistler.Infrastructure.Common\Whistler.Infrastructure.Common.csproj" />
+  </ItemGroup>
+</Project>

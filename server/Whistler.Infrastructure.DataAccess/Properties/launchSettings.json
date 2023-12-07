@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "Whistler.Infrastructure.DataAccess": {
+      "commandName": "Project"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+﻿{
+    "ConnectionStrings": {
+        "DefaultConnection": "server=127.0.0.1;uid=root;pwd=;port=3306;database=uniq;",
+        "WhistlerConnection": "server=127.0.0.1;uid=root;pwd=;port=3306;database=uniq;"
+    },    
+
+    "MailService": {
+        "Url": "https://local.eliterp.ru"
+    },
+    
+    "Main": {
+        "ServerNumber": 1,
+        "Weather": "CLEAR",
+        "SocialClubCheck": true,
+        "ServerName": "GTA GO",
+        "VOIPEnabled": true, // ?
+        "RemoteControl": false, // ?
+        "DonateChecker": false, // Проверять ли базу с донатами
+        "Donation_Sale": false, // ?
+        "PaydayMultiplier": 2, // Множитель $
+        "ExpMultiplier": 2, // Множитель EXP
+        "SCLog": false, // ?
+        "BizTax": true, // налог биз
+        "HousesTax": false, // налог дом
+        "GangsPay": false, // ?
+        "GangsIncome": 200, // 200 за 1 квадрат
+        "MafiaIncome": 600, // ?
+        "SendClientExceptions": true // ?
+    },
+
+    "MySQL": {
+        "Server": "127.0.0.1",
+        "User": "root",
+        "Password": "",
+        "DataBase": "uniq",
+        "SSL": "SslMode=None;",
+        "Port": 3306
+    },
+
+    "Timers": {
+        "Delay": 100,
+        "ClearDelay": 300000
+    },
+
+    "Jobs":{
+        "PayMultipler": 2 // 2
+    },
+
+    "Bonus":{
+        "Minutes": 300,
+        "OneInDay": true,
+        "Coins": 600,
+        "Money": 6000
+    },
+    "Query":{
+        "IpAdress": "127.0.0.1",
+        "Port": 22001
+    },
+    "DonateConfig":{
+        "CoinToVirtual": 200,
+        "RubToCoin": 2,
+        "PaymentProvider": "Prime", //Enot, Prime
+       "PayUrl": "https://pay.primepayments.ru/API/v1",
+        "Database": "donates_db",
+        "Secret": "tnpFDYCuGt",
+        "Currency": "RUB",
+        "Language": "RU",
+        "ProjectId": 2956,
+        "CoinKits":[
+            {
+                "Id": 0,
+                "Price": 5000,
+                "Coins": 10500
+            },
+            {
+                "Id": 1,
+                "Price": 10000,
+                "Coins": 21000
+            },
+            {
+                "Id": 2,
+                "Price": 20000,
+                "Coins": 43000
+            },
+            {
+                "Id": 3,
+                "Price": 30000,
+                "Coins": 65000
+            },
+            {
+                "Id": 4,
+                "Price": 50000,
+                "Coins": 107000
+            }
+        ]
+    }
+}

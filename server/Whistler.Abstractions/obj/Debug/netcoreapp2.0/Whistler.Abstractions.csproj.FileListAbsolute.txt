@@ -1,0 +1,9 @@
+F:\new\whistler\Server\Whistler.Abstractions\bin\Debug\netcoreapp2.0\Whistler.Abstractions.deps.json
+F:\new\whistler\Server\Whistler.Abstractions\bin\Debug\netcoreapp2.0\Whistler.Abstractions.dll
+F:\new\whistler\Server\Whistler.Abstractions\bin\Debug\netcoreapp2.0\Whistler.Abstractions.pdb
+F:\new\whistler\Server\Whistler.Abstractions\obj\Debug\netcoreapp2.0\Whistler.Abstractions.AssemblyInfoInputs.cache
+F:\new\whistler\Server\Whistler.Abstractions\obj\Debug\netcoreapp2.0\Whistler.Abstractions.AssemblyInfo.cs
+F:\new\whistler\Server\Whistler.Abstractions\obj\Debug\netcoreapp2.0\Whistler.Abstractions.csproj.CoreCompileInputs.cache
+F:\new\whistler\Server\Whistler.Abstractions\obj\Debug\netcoreapp2.0\Whistler.Abstractions.dll
+F:\new\whistler\Server\Whistler.Abstractions\obj\Debug\netcoreapp2.0\Whistler.Abstractions.pdb
+F:\new\whistler\Server\Whistler.Abstractions\obj\Debug\netcoreapp2.0\Whistler.Abstractions.csprojAssemblyReference.cache

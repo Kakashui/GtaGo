@@ -1,0 +1,1 @@
+export default {"0":{"Price":25,"MinPrice":0,"MaxPrice":500},"1":{"Price":50,"MinPrice":500,"MaxPrice":1500},"2":{"Price":100,"MinPrice":1500,"MaxPrice":3000},"3":{"Price":200,"MinPrice":3000,"MaxPrice":7000},"5":{"Price":400,"MinPrice":7000,"MaxPrice":20000},"4":{"Price":500,"MinPrice":20000,"MaxPrice":100000},"6":{"Price":1000,"MinPrice":100000,"MaxPrice":10000000}}

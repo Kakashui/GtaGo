@@ -1,0 +1,77 @@
+F:\new\whistler_1_1\Server\Whistler.Abstractions\bin\Debug\netcoreapp3.1\Whistler.Abstractions.deps.json
+F:\new\whistler_1_1\Server\Whistler.Abstractions\bin\Debug\netcoreapp3.1\Whistler.Abstractions.dll
+F:\new\whistler_1_1\Server\Whistler.Abstractions\bin\Debug\netcoreapp3.1\Whistler.Abstractions.pdb
+F:\new\whistler_1_1\Server\Whistler.Abstractions\obj\Debug\netcoreapp3.1\Whistler.Abstractions.csprojAssemblyReference.cache
+F:\new\whistler_1_1\Server\Whistler.Abstractions\obj\Debug\netcoreapp3.1\Whistler.Abstractions.AssemblyInfoInputs.cache
+F:\new\whistler_1_1\Server\Whistler.Abstractions\obj\Debug\netcoreapp3.1\Whistler.Abstractions.AssemblyInfo.cs
+F:\new\whistler_1_1\Server\Whistler.Abstractions\obj\Debug\netcoreapp3.1\Whistler.Abstractions.csproj.CoreCompileInputs.cache
+F:\new\whistler_1_1\Server\Whistler.Abstractions\obj\Debug\netcoreapp3.1\Whistler.Abstractions.dll
+F:\new\whistler_1_1\Server\Whistler.Abstractions\obj\Debug\netcoreapp3.1\Whistler.Abstractions.pdb
+F:\new\whistler\Server\Whistler.Abstractions\bin\Debug\netcoreapp3.1\Whistler.Abstractions.deps.json
+F:\new\whistler\Server\Whistler.Abstractions\bin\Debug\netcoreapp3.1\Whistler.Abstractions.dll
+F:\new\whistler\Server\Whistler.Abstractions\bin\Debug\netcoreapp3.1\Whistler.Abstractions.pdb
+F:\new\whistler\Server\Whistler.Abstractions\obj\Debug\netcoreapp3.1\Whistler.Abstractions.AssemblyInfoInputs.cache
+F:\new\whistler\Server\Whistler.Abstractions\obj\Debug\netcoreapp3.1\Whistler.Abstractions.AssemblyInfo.cs
+F:\new\whistler\Server\Whistler.Abstractions\obj\Debug\netcoreapp3.1\Whistler.Abstractions.csproj.CoreCompileInputs.cache
+F:\new\whistler\Server\Whistler.Abstractions\obj\Debug\netcoreapp3.1\Whistler.Abstractions.dll
+F:\new\whistler\Server\Whistler.Abstractions\obj\Debug\netcoreapp3.1\Whistler.Abstractions.pdb
+F:\new\whistler\Server\Whistler.Abstractions\obj\Debug\netcoreapp3.1\Whistler.Abstractions.csproj.AssemblyReference.cache
+F:\new\whistler\Server\Whistler.Abstractions\obj\Debug\netcoreapp3.1\Whistler.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amazing\Desktop\server\dotnet\resources\Whistler.Abstractions\bin\Debug\netcoreapp3.1\Whistler.Abstractions.deps.json
+C:\Users\Amazing\Desktop\server\dotnet\resources\Whistler.Abstractions\bin\Debug\netcoreapp3.1\Whistler.Abstractions.dll
+C:\Users\Amazing\Desktop\server\dotnet\resources\Whistler.Abstractions\bin\Debug\netcoreapp3.1\Whistler.Abstractions.pdb
+C:\Users\Amazing\Desktop\server\dotnet\resources\Whistler.Abstractions\obj\Debug\netcoreapp3.1\Whistler.Abstractions.csproj.AssemblyReference.cache
+C:\Users\Amazing\Desktop\server\dotnet\resources\Whistler.Abstractions\obj\Debug\netcoreapp3.1\Whistler.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amazing\Desktop\server\dotnet\resources\Whistler.Abstractions\obj\Debug\netcoreapp3.1\Whistler.Abstractions.AssemblyInfoInputs.cache
+C:\Users\Amazing\Desktop\server\dotnet\resources\Whistler.Abstractions\obj\Debug\netcoreapp3.1\Whistler.Abstractions.AssemblyInfo.cs
+C:\Users\Amazing\Desktop\server\dotnet\resources\Whistler.Abstractions\obj\Debug\netcoreapp3.1\Whistler.Abstractions.csproj.CoreCompileInputs.cache
+C:\Users\Amazing\Desktop\server\dotnet\resources\Whistler.Abstractions\obj\Debug\netcoreapp3.1\Whistler.Abstractions.dll
+C:\Users\Amazing\Desktop\server\dotnet\resources\Whistler.Abstractions\obj\Debug\netcoreapp3.1\Whistler.Abstractions.pdb
+C:\Users\Amazing\Desktop\server\dotnet\resources\src\Whistler.Abstractions\bin\Debug\netcoreapp3.1\Whistler.Abstractions.deps.json
+C:\Users\Amazing\Desktop\server\dotnet\resources\src\Whistler.Abstractions\bin\Debug\netcoreapp3.1\Whistler.Abstractions.dll
+C:\Users\Amazing\Desktop\server\dotnet\resources\src\Whistler.Abstractions\bin\Debug\netcoreapp3.1\Whistler.Abstractions.pdb
+C:\Users\Amazing\Desktop\server\dotnet\resources\src\Whistler.Abstractions\obj\Debug\netcoreapp3.1\Whistler.Abstractions.csproj.AssemblyReference.cache
+C:\Users\Amazing\Desktop\server\dotnet\resources\src\Whistler.Abstractions\obj\Debug\netcoreapp3.1\Whistler.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amazing\Desktop\server\dotnet\resources\src\Whistler.Abstractions\obj\Debug\netcoreapp3.1\Whistler.Abstractions.AssemblyInfoInputs.cache
+C:\Users\Amazing\Desktop\server\dotnet\resources\src\Whistler.Abstractions\obj\Debug\netcoreapp3.1\Whistler.Abstractions.AssemblyInfo.cs
+C:\Users\Amazing\Desktop\server\dotnet\resources\src\Whistler.Abstractions\obj\Debug\netcoreapp3.1\Whistler.Abstractions.csproj.CoreCompileInputs.cache
+C:\Users\Amazing\Desktop\server\dotnet\resources\src\Whistler.Abstractions\obj\Debug\netcoreapp3.1\Whistler.Abstractions.dll
+C:\Users\Amazing\Desktop\server\dotnet\resources\src\Whistler.Abstractions\obj\Debug\netcoreapp3.1\Whistler.Abstractions.pdb
+C:\Users\Amazing\Desktop\server\Server Source\Whistler.Abstractions\bin\Debug\netcoreapp3.1\Whistler.Abstractions.deps.json
+C:\Users\Amazing\Desktop\server\Server Source\Whistler.Abstractions\bin\Debug\netcoreapp3.1\Whistler.Abstractions.dll
+C:\Users\Amazing\Desktop\server\Server Source\Whistler.Abstractions\bin\Debug\netcoreapp3.1\Whistler.Abstractions.pdb
+C:\Users\Amazing\Desktop\server\Server Source\Whistler.Abstractions\obj\Debug\netcoreapp3.1\Whistler.Abstractions.csproj.AssemblyReference.cache
+C:\Users\Amazing\Desktop\server\Server Source\Whistler.Abstractions\obj\Debug\netcoreapp3.1\Whistler.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amazing\Desktop\server\Server Source\Whistler.Abstractions\obj\Debug\netcoreapp3.1\Whistler.Abstractions.AssemblyInfoInputs.cache
+C:\Users\Amazing\Desktop\server\Server Source\Whistler.Abstractions\obj\Debug\netcoreapp3.1\Whistler.Abstractions.AssemblyInfo.cs
+C:\Users\Amazing\Desktop\server\Server Source\Whistler.Abstractions\obj\Debug\netcoreapp3.1\Whistler.Abstractions.csproj.CoreCompileInputs.cache
+C:\Users\Amazing\Desktop\server\Server Source\Whistler.Abstractions\obj\Debug\netcoreapp3.1\Whistler.Abstractions.dll
+C:\Users\Amazing\Desktop\server\Server Source\Whistler.Abstractions\obj\Debug\netcoreapp3.1\Whistler.Abstractions.pdb
+D:\mikZZZ-Server\Whistler.Abstractions\bin\Debug\netcoreapp3.1\Whistler.Abstractions.deps.json
+D:\mikZZZ-Server\Whistler.Abstractions\bin\Debug\netcoreapp3.1\Whistler.Abstractions.dll
+D:\mikZZZ-Server\Whistler.Abstractions\bin\Debug\netcoreapp3.1\Whistler.Abstractions.pdb
+D:\mikZZZ-Server\Whistler.Abstractions\obj\Debug\netcoreapp3.1\Whistler.Abstractions.csproj.AssemblyReference.cache
+D:\mikZZZ-Server\Whistler.Abstractions\obj\Debug\netcoreapp3.1\Whistler.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+D:\mikZZZ-Server\Whistler.Abstractions\obj\Debug\netcoreapp3.1\Whistler.Abstractions.AssemblyInfoInputs.cache
+D:\mikZZZ-Server\Whistler.Abstractions\obj\Debug\netcoreapp3.1\Whistler.Abstractions.AssemblyInfo.cs
+D:\mikZZZ-Server\Whistler.Abstractions\obj\Debug\netcoreapp3.1\Whistler.Abstractions.csproj.CoreCompileInputs.cache
+D:\mikZZZ-Server\Whistler.Abstractions\obj\Debug\netcoreapp3.1\Whistler.Abstractions.dll
+D:\mikZZZ-Server\Whistler.Abstractions\obj\Debug\netcoreapp3.1\Whistler.Abstractions.pdb
+C:\gta go\isxondiki\ELITE-Server\Whistler.Abstractions\bin\Debug\netcoreapp3.1\Whistler.Abstractions.deps.json
+C:\gta go\isxondiki\ELITE-Server\Whistler.Abstractions\bin\Debug\netcoreapp3.1\Whistler.Abstractions.dll
+C:\gta go\isxondiki\ELITE-Server\Whistler.Abstractions\bin\Debug\netcoreapp3.1\Whistler.Abstractions.pdb
+C:\gta go\isxondiki\ELITE-Server\Whistler.Abstractions\obj\Debug\netcoreapp3.1\Whistler.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\gta go\isxondiki\ELITE-Server\Whistler.Abstractions\obj\Debug\netcoreapp3.1\Whistler.Abstractions.AssemblyInfoInputs.cache
+C:\gta go\isxondiki\ELITE-Server\Whistler.Abstractions\obj\Debug\netcoreapp3.1\Whistler.Abstractions.AssemblyInfo.cs
+C:\gta go\isxondiki\ELITE-Server\Whistler.Abstractions\obj\Debug\netcoreapp3.1\Whistler.Abstractions.csproj.CoreCompileInputs.cache
+C:\gta go\isxondiki\ELITE-Server\Whistler.Abstractions\obj\Debug\netcoreapp3.1\Whistler.Abstractions.dll
+C:\gta go\isxondiki\ELITE-Server\Whistler.Abstractions\obj\Debug\netcoreapp3.1\Whistler.Abstractions.pdb
+E:\RageMP (Project)\GTA GO\server\Whistler.Abstractions\bin\Debug\netcoreapp3.1\Whistler.Abstractions.deps.json
+E:\RageMP (Project)\GTA GO\server\Whistler.Abstractions\bin\Debug\netcoreapp3.1\Whistler.Abstractions.dll
+E:\RageMP (Project)\GTA GO\server\Whistler.Abstractions\bin\Debug\netcoreapp3.1\Whistler.Abstractions.pdb
+E:\RageMP (Project)\GTA GO\server\Whistler.Abstractions\obj\Debug\netcoreapp3.1\Whistler.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+E:\RageMP (Project)\GTA GO\server\Whistler.Abstractions\obj\Debug\netcoreapp3.1\Whistler.Abstractions.AssemblyInfoInputs.cache
+E:\RageMP (Project)\GTA GO\server\Whistler.Abstractions\obj\Debug\netcoreapp3.1\Whistler.Abstractions.AssemblyInfo.cs
+E:\RageMP (Project)\GTA GO\server\Whistler.Abstractions\obj\Debug\netcoreapp3.1\Whistler.Abstractions.csproj.CoreCompileInputs.cache
+E:\RageMP (Project)\GTA GO\server\Whistler.Abstractions\obj\Debug\netcoreapp3.1\Whistler.Abstractions.dll
+E:\RageMP (Project)\GTA GO\server\Whistler.Abstractions\obj\Debug\netcoreapp3.1\Whistler.Abstractions.pdb

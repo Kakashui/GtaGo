@@ -1,0 +1,15 @@
+﻿<meta>
+  <info name="Whistler" type="script"/>
+  <script src="Whistler.dll"/>
+  
+  <export class="Customization" function="ApplyCharacter" />
+  
+  <settings>
+    <setting name="url" value="https://pay.primepayments.ru/API/v1"/>
+    <setting name="secret" value="MXKmZANB"/>
+    <setting name="port" value="5555"/>
+    <setting name="currency" value="RUB"/>
+    <setting name="project" value="42"/>
+  </settings>
+
+</meta>

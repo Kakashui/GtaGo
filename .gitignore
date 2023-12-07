@@ -1,0 +1,8 @@
+conf.json
+client_packages/game_resources/dlcpacks/*
+whistlersLogs
+server_exceptions.txt
+server_logs.txt
+client_packages/.listcache
+coords.txt
+RestartOnCrash.exe

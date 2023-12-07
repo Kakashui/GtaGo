@@ -1,0 +1,22 @@
+{
+  "name": "clienside",
+  "version": "1.0.0",
+  "description": "client side for my gta5",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "build": "webpack -p --define global.debug=false",
+    "dev": "webpack --mode development --define global.debug=true"
+  },
+  "author": "Malboro",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/ragemp-c": "github:CocaColaBear/types-ragemp-c#v1.0",
+    "@types/whistler": "@types/whistler",
+    "webpack": "^4.42.1",
+    "webpack-cli": "^3.3.11"
+  },
+  "dependencies": {
+    "copy-dir": "^1.3.0"
+  }
+}

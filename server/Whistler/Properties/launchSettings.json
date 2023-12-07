@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Whistler": {
+      "commandName": "Executable",
+      "executablePath": "D:\\TESTINQQ\\ragemp-server.exe",
+      "workingDirectory": "D:\\TESTINQQ"
+    }
+  }
+}

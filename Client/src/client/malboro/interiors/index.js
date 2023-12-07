@@ -1,0 +1,1 @@
+const cef = mp.browsers.new("package://malboro/ipl.html")

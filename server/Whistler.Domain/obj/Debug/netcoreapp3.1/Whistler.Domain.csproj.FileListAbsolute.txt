@@ -1,0 +1,86 @@
+F:\new\whistler_1_1\Server\Whistler.Domain\bin\Debug\netcoreapp3.1\Whistler.Domain.deps.json
+F:\new\whistler_1_1\Server\Whistler.Domain\bin\Debug\netcoreapp3.1\Whistler.Domain.dll
+F:\new\whistler_1_1\Server\Whistler.Domain\bin\Debug\netcoreapp3.1\Whistler.Domain.pdb
+F:\new\whistler_1_1\Server\Whistler.Domain\obj\Debug\netcoreapp3.1\Whistler.Domain.AssemblyInfoInputs.cache
+F:\new\whistler_1_1\Server\Whistler.Domain\obj\Debug\netcoreapp3.1\Whistler.Domain.AssemblyInfo.cs
+F:\new\whistler_1_1\Server\Whistler.Domain\obj\Debug\netcoreapp3.1\Whistler.Domain.csproj.CoreCompileInputs.cache
+F:\new\whistler_1_1\Server\Whistler.Domain\obj\Debug\netcoreapp3.1\Whistler.Domain.dll
+F:\new\whistler_1_1\Server\Whistler.Domain\obj\Debug\netcoreapp3.1\Whistler.Domain.pdb
+F:\new\whistler\Server\Whistler.Domain\bin\Debug\netcoreapp3.1\Whistler.Domain.deps.json
+F:\new\whistler\Server\Whistler.Domain\bin\Debug\netcoreapp3.1\Whistler.Domain.dll
+F:\new\whistler\Server\Whistler.Domain\bin\Debug\netcoreapp3.1\Whistler.Domain.pdb
+F:\new\whistler\Server\Whistler.Domain\obj\Debug\netcoreapp3.1\Whistler.Domain.AssemblyInfoInputs.cache
+F:\new\whistler\Server\Whistler.Domain\obj\Debug\netcoreapp3.1\Whistler.Domain.AssemblyInfo.cs
+F:\new\whistler\Server\Whistler.Domain\obj\Debug\netcoreapp3.1\Whistler.Domain.csproj.CoreCompileInputs.cache
+F:\new\whistler\Server\Whistler.Domain\obj\Debug\netcoreapp3.1\Whistler.Domain.dll
+F:\new\whistler\Server\Whistler.Domain\obj\Debug\netcoreapp3.1\Whistler.Domain.pdb
+F:\new\whistler\Server\Whistler.Domain\obj\Debug\netcoreapp3.1\Whistler.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\new\whistler\Server\Whistler.Domain\obj\Debug\netcoreapp3.1\Whistler.Domain.csproj.AssemblyReference.cache
+C:\Users\Amazing\Desktop\server\dotnet\resources\Whistler.Domain\bin\Debug\netcoreapp3.1\Whistler.Domain.deps.json
+C:\Users\Amazing\Desktop\server\dotnet\resources\Whistler.Domain\bin\Debug\netcoreapp3.1\Whistler.Domain.dll
+C:\Users\Amazing\Desktop\server\dotnet\resources\Whistler.Domain\bin\Debug\netcoreapp3.1\Whistler.Domain.pdb
+C:\Users\Amazing\Desktop\server\dotnet\resources\Whistler.Domain\obj\Debug\netcoreapp3.1\Whistler.Domain.csproj.AssemblyReference.cache
+C:\Users\Amazing\Desktop\server\dotnet\resources\Whistler.Domain\obj\Debug\netcoreapp3.1\Whistler.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amazing\Desktop\server\dotnet\resources\Whistler.Domain\obj\Debug\netcoreapp3.1\Whistler.Domain.AssemblyInfoInputs.cache
+C:\Users\Amazing\Desktop\server\dotnet\resources\Whistler.Domain\obj\Debug\netcoreapp3.1\Whistler.Domain.AssemblyInfo.cs
+C:\Users\Amazing\Desktop\server\dotnet\resources\Whistler.Domain\obj\Debug\netcoreapp3.1\Whistler.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Amazing\Desktop\server\dotnet\resources\Whistler.Domain\obj\Debug\netcoreapp3.1\Whistler.Domain.dll
+C:\Users\Amazing\Desktop\server\dotnet\resources\Whistler.Domain\obj\Debug\netcoreapp3.1\Whistler.Domain.pdb
+C:\Users\Amazing\Desktop\server\dotnet\resources\src\Whistler.Domain\bin\Debug\netcoreapp3.1\Whistler.Domain.deps.json
+C:\Users\Amazing\Desktop\server\dotnet\resources\src\Whistler.Domain\bin\Debug\netcoreapp3.1\Whistler.Domain.dll
+C:\Users\Amazing\Desktop\server\dotnet\resources\src\Whistler.Domain\bin\Debug\netcoreapp3.1\Whistler.Domain.pdb
+C:\Users\Amazing\Desktop\server\dotnet\resources\src\Whistler.Domain\obj\Debug\netcoreapp3.1\Whistler.Domain.csproj.AssemblyReference.cache
+C:\Users\Amazing\Desktop\server\dotnet\resources\src\Whistler.Domain\obj\Debug\netcoreapp3.1\Whistler.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amazing\Desktop\server\dotnet\resources\src\Whistler.Domain\obj\Debug\netcoreapp3.1\Whistler.Domain.AssemblyInfoInputs.cache
+C:\Users\Amazing\Desktop\server\dotnet\resources\src\Whistler.Domain\obj\Debug\netcoreapp3.1\Whistler.Domain.AssemblyInfo.cs
+C:\Users\Amazing\Desktop\server\dotnet\resources\src\Whistler.Domain\obj\Debug\netcoreapp3.1\Whistler.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Amazing\Desktop\server\dotnet\resources\src\Whistler.Domain\obj\Debug\netcoreapp3.1\Whistler.Domain.dll
+C:\Users\Amazing\Desktop\server\dotnet\resources\src\Whistler.Domain\obj\Debug\netcoreapp3.1\Whistler.Domain.pdb
+C:\Users\Amazing\Desktop\server\Server Source\Whistler.Domain\bin\Debug\netcoreapp3.1\Whistler.Domain.deps.json
+C:\Users\Amazing\Desktop\server\Server Source\Whistler.Domain\bin\Debug\netcoreapp3.1\Whistler.Domain.dll
+C:\Users\Amazing\Desktop\server\Server Source\Whistler.Domain\bin\Debug\netcoreapp3.1\Whistler.Domain.pdb
+C:\Users\Amazing\Desktop\server\Server Source\Whistler.Domain\obj\Debug\netcoreapp3.1\Whistler.Domain.csproj.AssemblyReference.cache
+C:\Users\Amazing\Desktop\server\Server Source\Whistler.Domain\obj\Debug\netcoreapp3.1\Whistler.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amazing\Desktop\server\Server Source\Whistler.Domain\obj\Debug\netcoreapp3.1\Whistler.Domain.AssemblyInfoInputs.cache
+C:\Users\Amazing\Desktop\server\Server Source\Whistler.Domain\obj\Debug\netcoreapp3.1\Whistler.Domain.AssemblyInfo.cs
+C:\Users\Amazing\Desktop\server\Server Source\Whistler.Domain\obj\Debug\netcoreapp3.1\Whistler.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Amazing\Desktop\server\Server Source\Whistler.Domain\obj\Debug\netcoreapp3.1\Whistler.Domain.dll
+C:\Users\Amazing\Desktop\server\Server Source\Whistler.Domain\obj\Debug\netcoreapp3.1\Whistler.Domain.pdb
+D:\mikZZZ-Server\Whistler.Domain\bin\Debug\netcoreapp3.1\Whistler.Domain.deps.json
+D:\mikZZZ-Server\Whistler.Domain\bin\Debug\netcoreapp3.1\Whistler.Domain.dll
+D:\mikZZZ-Server\Whistler.Domain\bin\Debug\netcoreapp3.1\Whistler.Domain.pdb
+D:\mikZZZ-Server\Whistler.Domain\obj\Debug\netcoreapp3.1\Whistler.Domain.csproj.AssemblyReference.cache
+D:\mikZZZ-Server\Whistler.Domain\obj\Debug\netcoreapp3.1\Whistler.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\mikZZZ-Server\Whistler.Domain\obj\Debug\netcoreapp3.1\Whistler.Domain.AssemblyInfoInputs.cache
+D:\mikZZZ-Server\Whistler.Domain\obj\Debug\netcoreapp3.1\Whistler.Domain.AssemblyInfo.cs
+D:\mikZZZ-Server\Whistler.Domain\obj\Debug\netcoreapp3.1\Whistler.Domain.csproj.CoreCompileInputs.cache
+D:\mikZZZ-Server\Whistler.Domain\obj\Debug\netcoreapp3.1\Whistler.Domain.dll
+D:\mikZZZ-Server\Whistler.Domain\obj\Debug\netcoreapp3.1\Whistler.Domain.pdb
+D:\GTA-Server\Whistler.Domain\bin\Debug\netcoreapp3.1\Whistler.Domain.deps.json
+D:\GTA-Server\Whistler.Domain\bin\Debug\netcoreapp3.1\Whistler.Domain.dll
+D:\GTA-Server\Whistler.Domain\bin\Debug\netcoreapp3.1\Whistler.Domain.pdb
+D:\GTA-Server\Whistler.Domain\obj\Debug\netcoreapp3.1\Whistler.Domain.csproj.AssemblyReference.cache
+D:\GTA-Server\Whistler.Domain\obj\Debug\netcoreapp3.1\Whistler.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\GTA-Server\Whistler.Domain\obj\Debug\netcoreapp3.1\Whistler.Domain.AssemblyInfoInputs.cache
+D:\GTA-Server\Whistler.Domain\obj\Debug\netcoreapp3.1\Whistler.Domain.AssemblyInfo.cs
+D:\GTA-Server\Whistler.Domain\obj\Debug\netcoreapp3.1\Whistler.Domain.csproj.CoreCompileInputs.cache
+D:\GTA-Server\Whistler.Domain\obj\Debug\netcoreapp3.1\Whistler.Domain.dll
+D:\GTA-Server\Whistler.Domain\obj\Debug\netcoreapp3.1\Whistler.Domain.pdb
+C:\gta go\isxondiki\ELITE-Server\Whistler.Domain\bin\Debug\netcoreapp3.1\Whistler.Domain.deps.json
+C:\gta go\isxondiki\ELITE-Server\Whistler.Domain\bin\Debug\netcoreapp3.1\Whistler.Domain.dll
+C:\gta go\isxondiki\ELITE-Server\Whistler.Domain\bin\Debug\netcoreapp3.1\Whistler.Domain.pdb
+C:\gta go\isxondiki\ELITE-Server\Whistler.Domain\obj\Debug\netcoreapp3.1\Whistler.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\gta go\isxondiki\ELITE-Server\Whistler.Domain\obj\Debug\netcoreapp3.1\Whistler.Domain.AssemblyInfoInputs.cache
+C:\gta go\isxondiki\ELITE-Server\Whistler.Domain\obj\Debug\netcoreapp3.1\Whistler.Domain.AssemblyInfo.cs
+C:\gta go\isxondiki\ELITE-Server\Whistler.Domain\obj\Debug\netcoreapp3.1\Whistler.Domain.csproj.CoreCompileInputs.cache
+C:\gta go\isxondiki\ELITE-Server\Whistler.Domain\obj\Debug\netcoreapp3.1\Whistler.Domain.dll
+C:\gta go\isxondiki\ELITE-Server\Whistler.Domain\obj\Debug\netcoreapp3.1\Whistler.Domain.pdb
+E:\RageMP (Project)\GTA GO\server\Whistler.Domain\bin\Debug\netcoreapp3.1\Whistler.Domain.deps.json
+E:\RageMP (Project)\GTA GO\server\Whistler.Domain\bin\Debug\netcoreapp3.1\Whistler.Domain.dll
+E:\RageMP (Project)\GTA GO\server\Whistler.Domain\bin\Debug\netcoreapp3.1\Whistler.Domain.pdb
+E:\RageMP (Project)\GTA GO\server\Whistler.Domain\obj\Debug\netcoreapp3.1\Whistler.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\RageMP (Project)\GTA GO\server\Whistler.Domain\obj\Debug\netcoreapp3.1\Whistler.Domain.AssemblyInfoInputs.cache
+E:\RageMP (Project)\GTA GO\server\Whistler.Domain\obj\Debug\netcoreapp3.1\Whistler.Domain.AssemblyInfo.cs
+E:\RageMP (Project)\GTA GO\server\Whistler.Domain\obj\Debug\netcoreapp3.1\Whistler.Domain.csproj.CoreCompileInputs.cache
+E:\RageMP (Project)\GTA GO\server\Whistler.Domain\obj\Debug\netcoreapp3.1\Whistler.Domain.dll
+E:\RageMP (Project)\GTA GO\server\Whistler.Domain\obj\Debug\netcoreapp3.1\Whistler.Domain.pdb

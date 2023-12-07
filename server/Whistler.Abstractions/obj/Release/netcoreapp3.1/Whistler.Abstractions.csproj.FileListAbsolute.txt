@@ -1,0 +1,8 @@
+F:\new\whistler\Server\Whistler.Abstractions\bin\Release\netcoreapp3.1\Whistler.Abstractions.deps.json
+F:\new\whistler\Server\Whistler.Abstractions\bin\Release\netcoreapp3.1\Whistler.Abstractions.dll
+F:\new\whistler\Server\Whistler.Abstractions\bin\Release\netcoreapp3.1\Whistler.Abstractions.pdb
+F:\new\whistler\Server\Whistler.Abstractions\obj\Release\netcoreapp3.1\Whistler.Abstractions.AssemblyInfoInputs.cache
+F:\new\whistler\Server\Whistler.Abstractions\obj\Release\netcoreapp3.1\Whistler.Abstractions.AssemblyInfo.cs
+F:\new\whistler\Server\Whistler.Abstractions\obj\Release\netcoreapp3.1\Whistler.Abstractions.csproj.CoreCompileInputs.cache
+F:\new\whistler\Server\Whistler.Abstractions\obj\Release\netcoreapp3.1\Whistler.Abstractions.dll
+F:\new\whistler\Server\Whistler.Abstractions\obj\Release\netcoreapp3.1\Whistler.Abstractions.pdb
