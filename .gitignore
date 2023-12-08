@@ -6,3 +6,5 @@ server_logs.txt
 client_packages/.listcache
 coords.txt
 RestartOnCrash.exe
+restart.ps1
+starting.cmd
